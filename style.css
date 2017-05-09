@@ -1,0 +1,27 @@
+body{
+	background: White;
+	color: Black;
+	font-family: verdana, geneva, sans-serif;
+}
+a{
+	color: White;
+}
+#myNameAddress{
+	background: #91D3D1;
+	color: #0F01BA;
+}
+#myNutShell{
+	background: #2C8BB0;
+	color: #C3E4E2;
+}
+#myProExp{
+	background: #91D3D1;
+	color: #0F01BA;
+}
+#myMadSkillzYo{
+	background: #C3E4E2;
+	color: #0F01BA; 
+}
+.progress-bar{
+	background: #0F01BA;
+}
