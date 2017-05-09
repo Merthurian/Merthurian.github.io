@@ -4,24 +4,27 @@ body{
 	font-family: verdana, geneva, sans-serif;
 }
 a{
-	color: White;
+	color: #DE4220;
 }
 #myNameAddress{
-	background: #91D3D1;
-	color: #0F01BA;
+	background: #201061;
+	color: #DE4220;
 }
 #myNutShell{
-	background: #2C8BB0;
-	color: #C3E4E2;
+	background: #2B5C66;
+	color: #E7B956;
 }
 #myProExp{
-	background: #91D3D1;
-	color: #0F01BA;
+	background: #D4CA8F;
+	color: #201061;
 }
 #myMadSkillzYo{
-	background: #C3E4E2;
-	color: #0F01BA; 
+	background: #DE4220; 
+	color: #201061;
 }
 .progress-bar{
-	background: #0F01BA;
+	background: #2B5C66;
+}
+h1,h2,h3,h4,h5,h6{
+	text-shadow: 0px 0px 0px #000000;
 }
