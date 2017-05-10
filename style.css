@@ -4,25 +4,26 @@ body{
 	font-family: verdana, geneva, sans-serif;
 }
 a{
-	color: #EDD4C9;
-}
-div{
-	background: #3055AA;
+	color: #edd4c9;
 }
 #myNameAddress{
-	color: #EDD4C9;
+	background: #3055aa;
+	color: #edd4c9;
 }
 #myNutShell{
-	color: #EDD4C9;
+	background: #6d83a7;
+	color: #edd4c9;
 }
 #myProExp{
-	color: #EDD4C9;
+	background: #3055aa;
+	color: #edd4c9;
 }
 #myMadSkillzYo{
-	color: #EDD4C9;
+	background: #6d83a7;
+	color: #edd4c9;
 }
 .progress-bar{
-	background: #2C98BA;
+	background: #3055aa;
 }
 h1,h2,h3,h4,h5,h6{
 	text-shadow: 2px 2px 3px #000000;
